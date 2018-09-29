@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237398091461",
+    "firebase_url": "https://raspi-ph.firebaseio.com",
+    "project_id": "raspi-ph",
+    "storage_bucket": "raspi-ph.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237398091461:android:b54503e14c47857d",
+        "android_client_info": {
+          "package_name": "com.example.titiarimba.raspi_ph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237398091461-h6dpr2vse9tmkqjjlmem6ed36vlp8gj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.titiarimba.raspi_ph",
+            "certificate_hash": "654704d6ffed2be9925ea966a6b4118814d50f78"
+          }
+        },
+        {
+          "client_id": "237398091461-9sl82h2h35vu4e21fs9l713eo6nnde63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAov5i6-NNAPccX9rM7hxJUvqjBzh61qU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237398091461-9sl82h2h35vu4e21fs9l713eo6nnde63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
